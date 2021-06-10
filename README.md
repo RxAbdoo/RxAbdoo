@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Osama</h1>
 <h3 align="center">A android and java developer from Egypt am a fourth year student at faculty of computer science and artificial intelligence at helwan university</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rxabdoo&label=Profile%20views&color=0e75b6&style=flat" alt="rxabdoo" /> </p>
-
 - 🌱 I’m currently learning more about **Advanced Topics in android**
 
 - 💬 Ask me about **android and java**
