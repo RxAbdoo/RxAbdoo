@@ -1,19 +1,29 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Osama</h1>
-<h3 align="center">A android and java developer from Egypt am a fourth year student at faculty of computer science and artificial intelligence at helwan university</h3>
+# Hi 👋, I'm Abdelrahman Osama
 
-- 🌱 I’m currently learning more about **Advanced Topics in android**
+A **Google Certified Data Engineer** and **Big Data Specialist** from Egypt.  
+Graduated from the Faculty of Computer Science and Artificial Intelligence, Helwan University.
 
-- 💬 Ask me about **android and java**
+I’m passionate about building scalable data pipelines, processing massive datasets using Spark and Hadoop, and designing data solutions on the cloud (especially GCP).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdelrhman.osama.7547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman.osama.7547" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrhmanosama971" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abdelrhmanosama971" height="30" width="40" /></a>
-</p>
+- 🌱 Currently learning more about **real-time data processing** and **cloud-native tools**  
+- 🧠 Ask me about **Data Engineering, GCP, Apache Spark, BigQuery, Airflow, Hive, SQL**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rxabdulrahmnosama)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxabdoo&show_icons=true&locale=en&layout=compact" alt="rxabdoo" /></p>
+## 🛠️ Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxabdoo&show_icons=true&locale=en" alt="rxabdoo" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-336791?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RXAbdoo&show_icons=true&theme=radical)
