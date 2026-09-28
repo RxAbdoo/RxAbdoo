@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,100:15803D&height=220&section=header&text=Abdulrahman&fontSize=64&fontColor=F2F5F1&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Instructor%20%E2%80%A2%20Founder%20of%20Egypt%20Data%20Builders&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,100:15803D&height=220&section=header&text=Abdulrahman&fontSize=64&fontColor=F2F5F1&fontAlignY=38&desc=Multi-Cloud%20Data%20Engineer%20%E2%80%A2%20Instructor&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-15803D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-EDB-LINK"><img src="https://img.shields.io/badge/Egypt_Data_Builders-0B0F0D?style=for-the-badge&logo=bookstack&logoColor=22C55E" /></a>
 </p>
 
 <br/>
@@ -24,11 +23,12 @@
 
 I'm a **multi-cloud Data Engineer** who designs and builds modern data platforms, from ingestion and streaming to lakehouses and governance.
 
-- 🏢 **Data Engineer at [Datain](https://YOUR-DATAIN-LINK)**, a Snowflake Premier Partner in Saudi Arabia
-- 🎓 **Founder of Egypt Data Builders (EDB)**, a data engineering academy
-- 📚 Instructor of the **Big Data & Spark Engineering Bootcamp**
-- 🏅 **7 professional certifications** across AWS, Microsoft, Google Cloud, Databricks, Cloudera and DAMA
-- 💬 Ask me about **lakehouses, Spark, streaming pipelines and data governance**
+- 🏗️ I build **end-to-end data pipelines**: batch and streaming, from raw sources to analytics-ready data
+- 🧊 I design **lakehouse and warehouse architectures** on Databricks, Snowflake and Microsoft Fabric
+- ☁️ I work across **AWS, Azure and Google Cloud**
+- 🛡️ I care about **data governance, quality and modeling**, not just moving data
+- 🎓 I **teach data engineering**, with a focus on Big Data and Spark
+- 🏅 I hold **7 professional certifications** from AWS, Microsoft, Google Cloud, Databricks, Cloudera and DAMA
 
 </td>
 <td width="40%" valign="top">
@@ -38,7 +38,8 @@ role:      Data Engineer & Instructor
 clouds:    [AWS, Azure, GCP]
 platforms: [Databricks, Snowflake, Fabric]
 focus:     [Lakehouse, Streaming, Governance]
-teaching:  Egypt Data Builders
+languages: [Python, SQL]
+also:      Data Engineering Instructor
 ```
 
 </td>
